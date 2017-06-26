@@ -85,6 +85,8 @@ def get_line_number_by_title(file_name, title):
             if dataitem[0] == title:
                 return data.index(dataitem)+1
 
+        raise ValueError('There is no game that matches the required title!')
+
     else:
         sys.exit(FILENOTFOUND_FAILMSG)
 
