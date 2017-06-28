@@ -1,0 +1,8 @@
+Title of most played game(sold most): Minecraft
+Total number of copies sold: 187.16
+Avg selling ammount is: 7.798333333333333
+The longest title is 52 characters long!
+Average release date is: 2003
+Properties of Counter-Strike: ['Counter-Strike', 12.5, 1999, 'First-person shooter', 'Valve Corporation']
+Number of games based on genre: {'Simulation': 3, 'Survival game': 1, 'Action-adventure': 1, 'Real-time strategy': 7, 'First-person shooter': 6, 'Sandbox': 1, 'RPG': 5}
+Date ordered list of games: ['Diablo III', 'Terraria', 'StarCraft II: Wings of Liberty', 'Minecraft', 'The Sims 3', 'Crysis', "Garry's Mod", 'Guild Wars', 'Counter-Strike: Condition Zero', 'Doom 3', 'Half-Life 2', 'The Sims 2', 'Warhammer 40,000: Dawn of War (including expansions)', 'World of Warcraft', 'Warcraft III: Reign of Chaos', 'Diablo II', 'The Sims', 'Counter-Strike', 'EverQuest', 'Half-Life', 'StarCraft', 'Age of Empires', 'Command & Conquer', 'Populous']
